@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeaconTest</string>
+
+    <string name="beacons_nearby">附近的Beacons</string>
+</resources>
